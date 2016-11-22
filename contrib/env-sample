@@ -1,0 +1,8 @@
+SECRET_KEY=THIS_IS_NOT_A_GOOD_SECRET
+DEBUG=True
+ALLOWED_HOSTS=127.0.0.1, .localhost
+
+AWS_STORAGE_BUCKET_NAME=nome-seu-bucket
+MEDIA_URL=https://nome-seu-bucket.s3.amazonaws.com/
+AWS_ACCESS_KEY_ID=
+AWS_SECRET_ACCESS_KEY=
